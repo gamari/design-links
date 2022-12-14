@@ -3,6 +3,10 @@
 デザインで使えるリンク集。
 個人用。
 
+## リンク
+
+[Mobileの参考](Mobileの参考.md)
+
 ## 色
 
 ### カラーパレット
@@ -41,6 +45,8 @@
 
 ## ツール
 
-### 画像生成
+### 画像編集
 
+[Custom Shape Dividers](https://www.shapedivider.app/)
 
+- 画像に波をつけるツール。
